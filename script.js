@@ -141,6 +141,9 @@ window.addEventListener('scroll', updateProgressBar);
 document.addEventListener('DOMContentLoaded', function () {
     // Certificate Data
     const certificateData = [
+        { img: "./certificate/ManOIndia_Internship_Certificate.png", title: "SEO Intern", issuer: "Man-O-India" },
+        { img: "./certificate/NPTEL_Programming_In_C.png", title: "Programming In C", issuer: "NPTEL" },
+        { img: "./certificate/NPTEL_Internet_Of_Things.png", title: "Internet Of Things", issuer: "NPTEL" },
         { img: "./certificate/Cisco_CCNA_Enterprise_Networking_Security_and_Automation.jpg", title: "CCNA Enterprise Networking Security and Automation", issuer: "Cisco" },
         { img: "./certificate/Cisco_CCNA_Switching_Routing_and_Wireless _Essentials.jpg", title: "CCNA Switching Routing and Wireless Essentials", issuer: "Cisco" },
         { img: "./certificate/Cisco_CCNA_Introduction_to_Networks.jpg", title: "CCNA Introduction to Networks", issuer: "Cisco" },
