@@ -37,16 +37,16 @@ My-Portfolio/
 
 ## Live Demo
 
-Visit the live website: [https://my-portfolio-inky-pi-70.vercel.app/](https://my-portfolio-inky-pi-70.vercel.app/)
+Visit the live website: [https://www.anikeshroy.xyz/](https://www.anikeshroy.xyz/)
 
 ## Contact
 
 Feel free to reach out for collaborations or opportunities:
 
 - **Email**: anikeshroy62040@gmail.com
-- **LinkedIn**: [Anikesh Roy](https://www.linkedin.com/in/anikesh-roy/)
-- **GitHub**: [Anikesh Roy](https://github.com/Anikeshroy)
-- **Portfolio**: [Live Website](https://my-portfolio-inky-pi-70.vercel.app/)
+- **LinkedIn**: [Anikesh Roy](https://www.linkedin.com/in/anikeshroy/)
+- **GitHub**: [Anikesh Roy](https://github.com/anikeshroyy)
+- **Portfolio**: [Live Website](https://www.anikeshroy.xyz/)
 
 ## License
 
